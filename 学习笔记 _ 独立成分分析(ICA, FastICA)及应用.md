@@ -1,7 +1,7 @@
 ﻿
 # <center><font face="宋体"> 学习笔记|独立成分分析(ICA, FastICA)及应用 </font></center>
 
-*<center><font face="Times New Roman" size = 3> Author：[chentianyang](https://github.com/chentianyangWHU) &emsp;&emsp; E-mail：tychen@whu.edu.cn &emsp;&emsp; [Link]()</center>*
+*<center><font face="Times New Roman" size = 3> Author：[chentianyang](https://github.com/chentianyangWHU) &emsp;&emsp; E-mail：tychen@whu.edu.cn &emsp;&emsp; [Link](https://github.com/chentianyangWHU/ICA-FastICA)</center>*
 
 **概要：** <font face="宋体" size = 3> 这篇博客和博客[学习笔记|主成分分析[PCA]及其若干应用](https://blog.csdn.net/ctyqy2015301200079/article/details/85325125)属于一个系列，介绍独立成分分析(Independent Component Analysis, ICA)的原理及简单应用。ICA也是一种矩阵分解算法，尽管它最开始不是基于此而提出来的。</font>
 
